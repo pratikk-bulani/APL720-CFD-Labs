@@ -1,1 +1,1 @@
-# APL720-CFD-Labs
+# APL720 CFD Labs
